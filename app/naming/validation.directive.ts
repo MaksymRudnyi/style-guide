@@ -1,0 +1,3 @@
+@Directive({...});
+
+export class ValidationDirective{};
